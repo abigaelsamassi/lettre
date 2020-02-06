@@ -1,0 +1,140 @@
+@font-family
+
+body{
+  background-color: red
+}
+
+.lettre{
+    border:2px solid black;
+    font-size:25px;
+    width:750px;
+    height:1400px;
+    left:18%;
+    font-family: 'Sevillana', cursive;
+    margin:50PX auto;
+   padding:0 10px ;
+ }     
+
+.date{
+	text-align:right;
+} 
+
+.info{
+	text-align:right;
+
+}
+
+.objet{
+   text-align:left;
+} 
+
+.nom{
+  padding-left: 0
+  margin-left:0;
+  
+}
+
+.fin{
+    text-align:right;
+    
+}
+
+.time{
+    
+    position:relative;
+    top: -170px;
+    right: -480px;
+    
+}
+
+.PD{
+    text-align: justify;
+    text-indent: 30PX;
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
